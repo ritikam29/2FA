@@ -1,1 +1,1 @@
-2 Factor Authentication using speakeasy
+ A simple 2 factor authentication example using speakeasy
