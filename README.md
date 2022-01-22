@@ -1,1 +1,1 @@
-# 2FA
+2 Factor Authentication using speakeasy
